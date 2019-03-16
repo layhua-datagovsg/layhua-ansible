@@ -1,7 +1,7 @@
 #!/bin/bash
 # Author: lowlayhua@gmail.com
 
-# Optus 
+
 # cloudera CDH
 # Rhel 7 ami-3f03c55c
 # AMI ami-1ddc0b7e
