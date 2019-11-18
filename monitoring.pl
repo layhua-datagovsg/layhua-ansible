@@ -5,7 +5,7 @@
 #############################################################################
 ### You may change this if you want to
 $workdir="/u0/staff/layhua";
-$email_list="layhua\@singtel.com";
+$email_list="lowlayhua\@gmail.com";
 
 my $curdate = `date +%d%m%Y`;
 chop ($curdate);
